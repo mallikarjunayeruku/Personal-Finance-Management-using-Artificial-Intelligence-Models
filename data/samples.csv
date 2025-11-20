@@ -1,0 +1,1001 @@
+text,intent
+How much did I spend last month?,spending_summary
+Show my groceries spend in September,category_summary
+What did I spend on groceries in 2025-09?,category_summary
+How much was my rent in Aug 2025?,category_summary
+Recommend ways to cut expenses,recommendation
+What did I spend on spotify in 2026-02?,category_summary
+How much did I spend in Apr 2023?,spending_summary
+Give me saving suggestions for Jul 2024,recommendation
+Total spending for 2026-12,spending_summary
+Spending on travel last month,category_summary
+What will I spend next month?,forecast_expense
+Show top 5 categories last 6 months,top_categories
+How do I spend less next month?,recommendation
+How much did I spend in May 2023?,spending_summary
+Find recurring subscriptions for last 2 months,subscriptions
+Estimate next month's expenses,forecast_expense
+Top categories this month,top_categories
+Find recurring subscriptions for last 12 months,subscriptions
+How much did I spend in Jan 2025?,spending_summary
+How much did I spend in Oct 2025?,spending_summary
+Show subscriptions this month,subscriptions
+Give me saving suggestions for Sep 2025,recommendation
+Top 5 categories for Jun 2024,top_categories
+Recommend cheaper alternatives for subscriptions,recommendation
+Top spending categories last quarter,top_categories
+What is my total spend for Jul 2024?,spending_summary
+What should I cancel to save money?,recommendation
+How much for prime video last 4 months,category_summary
+How much was my spending in the last 1 months?,spending_summary
+Show top 3 categories last 1 months,top_categories
+My apple music spend for Mar 2025,category_summary
+How much for mobile last 4 months,category_summary
+Any subscriptions in Aug 2023?,subscriptions
+How much was my spending in the last 6 months?,spending_summary
+Total I spent this month,spending_summary
+How much was my spending in the last 3 months?,spending_summary
+How much for utilities last 2 months,category_summary
+Show my recurring subscriptions,subscriptions
+Forecast monthly spend,forecast_expense
+How much did I spend in Apr 2024?,spending_summary
+How much did I spend on internet in 2026-05?,category_summary
+Any subscriptions in Feb 2023?,subscriptions
+How much did I spend in Mar 2026?,spending_summary
+How much did I spend on dining in 2026-03?,category_summary
+Predict expenses for the upcoming month,forecast_expense
+Spending on vehicle insurance last month,category_summary
+Any tips to lower my expenses?,recommendation
+Which categories did I spend the most on in Mar?,top_categories
+What did I spend on hbomax in 2024-02?,category_summary
+Highest spend categories 2023-10,top_categories
+Find subscriptions over the last year,subscriptions
+What were my top categories in Mar 2025?,top_categories
+Projected expenses for 2026-03,forecast_expense
+Which categories did I spend the most on in Jan?,top_categories
+How much did I spend on fuel this month?,category_summary
+Highest spend categories 2025-12,top_categories
+Predict my expenses for next month,forecast_expense
+My apple music spend for Dec 2026,category_summary
+Expected expenses for Sep 2024,forecast_expense
+What is my total spend for Jun 2023?,spending_summary
+Suggest savings opportunities,recommendation
+Total spending for 2025-12,spending_summary
+Expense prediction for next month,forecast_expense
+Spending on rent last month,category_summary
+Forecast my spending for May 2025,forecast_expense
+Give me saving suggestions for Jun 2023,recommendation
+What was my healthcare total in Jan 2023?,category_summary
+How can I reduce my spending?,recommendation
+Projected expenses for 2026-04,forecast_expense
+How much did I spend in Nov 2025?,spending_summary
+Show my restaurants spend in Apr,category_summary
+List my subscriptions,subscriptions
+Show total expenses for last month,spending_summary
+Overall expenses for the past 4 months,spending_summary
+Any subscriptions in Sep 2025?,subscriptions
+How much did I spend on prime video this month?,category_summary
+What is my total spend for Apr 2025?,spending_summary
+Show top 5 categories last 2 months,top_categories
+Do I have duplicate streaming services?,subscriptions
+How much did I spend on hotel in 2023-10?,category_summary
+What subscriptions do I have?,subscriptions
+Which categories did I spend the most on in Oct?,top_categories
+Show my electric spend in Apr,category_summary
+Highest spend categories 2025-08,top_categories
+Top categories over the last 2 months,top_categories
+How much did I spend this week?,spending_summary
+List duplicate subscriptions,subscriptions
+Which categories did I spend the most on in Aug?,top_categories
+Highest spend categories 2024-02,top_categories
+Any subscriptions in Apr 2026?,subscriptions
+Any subscriptions in Jun 2025?,subscriptions
+Projected expenses for 2024-05,forecast_expense
+Forecast my spending for Dec 2024,forecast_expense
+Help me optimize my budget,recommendation
+Give me saving suggestions for Mar 2025,recommendation
+What were my top categories in Dec 2024?,top_categories
+How much was my youtube in May 2023?,category_summary
+Top 5 categories for Oct 2024,top_categories
+Show top 3 categories last 3 months,top_categories
+Spending on internet last month,category_summary
+How much did I spend on vehicle insurance this month?,category_summary
+Expected expenses for Nov 2024,forecast_expense
+Highest spend categories 2024-11,top_categories
+Give me a forecast for next month expenses,forecast_expense
+Top spending categories in 6 months,top_categories
+Give me my spend for 2026-06,spending_summary
+Projected expenses for 2023-06,forecast_expense
+Give me saving suggestions for Aug 2026,recommendation
+Show biggest categories last month,top_categories
+How much did I spend in May 2024?,spending_summary
+How much did I spend in Feb 2026?,spending_summary
+Find recurring subscriptions for last 4 months,subscriptions
+Which categories did I spend the most on in Dec?,top_categories
+How much did I spend on restaurants in 2026-06?,category_summary
+Subscriptions in the last 2 months,subscriptions
+Give me my spend for 2026-02,spending_summary
+Subscriptions in the last 3 months,subscriptions
+Top 5 categories for Nov 2023,top_categories
+How much did I spend on shopping this month?,category_summary
+Highest spend categories 2024-08,top_categories
+Find recurring subscriptions for last 1 months,subscriptions
+Expected expenses for May 2026,forecast_expense
+How much did I spend on youtube in 2025-06?,category_summary
+Spending on healthcare last month,category_summary
+Where can I save money next month?,recommendation
+Spending on utilities last month,category_summary
+How much did I spend on netflix this month?,category_summary
+Total spending for 2026-04,spending_summary
+Which categories did I spend the most on in Jun?,top_categories
+Total spending for 2023-01,spending_summary
+My movies spend for Apr 2025,category_summary
+Give me my spend for 2024-02,spending_summary
+Overall expenses for the past 2 months,spending_summary
+What was my groceries total in May 2024?,category_summary
+What did I spend on rent in 2023-03?,category_summary
+How much did I spend on prime video in 2023-02?,category_summary
+Top spending categories in 4 months,top_categories
+Give me my spend for 2026-07,spending_summary
+Total spending for 2025-05,spending_summary
+Any subscriptions in Oct 2026?,subscriptions
+Give me saving suggestions for Dec 2024,recommendation
+How much did I spend on travel in 2026-08?,category_summary
+Which categories did I spend the most on in Sep?,top_categories
+Expected expenses for May 2025,forecast_expense
+My shopping spend for Feb 2025,category_summary
+What is my total spend for Oct 2024?,spending_summary
+What were my top categories in Jan 2024?,top_categories
+Total spending for 2023-12,spending_summary
+What was my dining total in Nov 2023?,category_summary
+How much for fuel last 1 months,category_summary
+How much was my healthcare in May 2025?,category_summary
+Which categories did I spend the most on in Nov?,top_categories
+Expected expenses for Jul 2026,forecast_expense
+Forecast my spending for Jul 2023,forecast_expense
+How much did I spend in Jul 2026?,spending_summary
+What did I spend on amazon prime in 2023-11?,category_summary
+How much did I spend on mobile this month?,category_summary
+My gym spend for Oct 2026,category_summary
+Find recurring subscriptions for last 3 months,subscriptions
+Forecast my spending for Nov 2023,forecast_expense
+Expected expenses for Aug 2024,forecast_expense
+How much did I spend in Dec 2026?,spending_summary
+Overall expenses for the past 3 months,spending_summary
+Projected expenses for 2026-11,forecast_expense
+How much was my electric in Feb 2025?,category_summary
+How much was my internet in Dec 2024?,category_summary
+Total youtube in the last 3 months,category_summary
+Which categories did I spend the most on in Jul?,top_categories
+Give me saving suggestions for Feb 2025,recommendation
+My airline spend for Jan 2026,category_summary
+Show my health insurance spend in Feb,category_summary
+What is my total spend for Aug 2024?,spending_summary
+How much was my apple music in Dec 2026?,category_summary
+What was my lyft total in Mar 2023?,category_summary
+Forecast my spending for Jun 2024,forecast_expense
+What is my total spend for Apr 2023?,spending_summary
+Projected expenses for 2026-09,forecast_expense
+Forecast my spending for Feb 2025,forecast_expense
+Total spending for 2026-10,spending_summary
+Top spending categories in 12 months,top_categories
+What did I spend on rent in 2024-12?,category_summary
+Show top 5 categories last 12 months,top_categories
+What was my vehicle insurance total in Dec 2026?,category_summary
+What did I spend on movies in 2026-03?,category_summary
+How much did I spend in Mar 2024?,spending_summary
+Show top 5 categories last 4 months,top_categories
+Top 5 categories for Jul 2023,top_categories
+How much for disney last 4 months,category_summary
+How much for insurance last 6 months,category_summary
+Top spending categories in 1 months,top_categories
+Any subscriptions in May 2025?,subscriptions
+My lyft spend for Aug 2026,category_summary
+How much was my health insurance in Oct 2025?,category_summary
+Any subscriptions in Aug 2026?,subscriptions
+How much did I spend on flight this month?,category_summary
+Top categories over the last 1 months,top_categories
+Total netflix in the last 2 months,category_summary
+Expected expenses for Jun 2024,forecast_expense
+Expected expenses for Oct 2024,forecast_expense
+What were my top categories in Sep 2025?,top_categories
+How much did I spend on internet in 2026-01?,category_summary
+Projected expenses for 2026-08,forecast_expense
+Any subscriptions in Jun 2023?,subscriptions
+How much was my netflix in Jun 2024?,category_summary
+Top categories over the last 12 months,top_categories
+How much did I spend on amazon prime in 2025-12?,category_summary
+Subscriptions in the last 4 months,subscriptions
+Highest spend categories 2023-04,top_categories
+Give me my spend for 2026-03,spending_summary
+Find recurring subscriptions for last 6 months,subscriptions
+Give me my spend for 2025-01,spending_summary
+How much did I spend on flight in 2026-07?,category_summary
+Overall expenses for the past 1 months,spending_summary
+Top 3 categories for Sep 2024,top_categories
+Top 5 categories for Apr 2024,top_categories
+Top spending categories in 2 months,top_categories
+What were my top categories in Apr 2025?,top_categories
+How much did I spend on electric this month?,category_summary
+Any subscriptions in Sep 2024?,subscriptions
+Which categories did I spend the most on in Apr?,top_categories
+Projected expenses for 2026-06,forecast_expense
+What is my total spend for Sep 2026?,spending_summary
+Total shopping in the last 4 months,category_summary
+How much for dining last 1 months,category_summary
+How much did I spend in Sep 2026?,spending_summary
+What were my top categories in Jan 2026?,top_categories
+Projected expenses for 2023-07,forecast_expense
+Give me my spend for 2025-07,spending_summary
+Total rent in the last 12 months,category_summary
+What is my total spend for Mar 2024?,spending_summary
+Give me saving suggestions for Jun 2026,recommendation
+Total apple music in the last 2 months,category_summary
+What is my total spend for Mar 2026?,spending_summary
+What is my total spend for Aug 2025?,spending_summary
+What did I spend on internet in 2026-07?,category_summary
+Expected expenses for Jul 2025,forecast_expense
+How much for netflix last 1 months,category_summary
+Top 5 categories for Oct 2023,top_categories
+Total spending for 2024-06,spending_summary
+Any subscriptions in Dec 2024?,subscriptions
+How much did I spend on apple music in 2026-09?,category_summary
+How much did I spend on restaurants this month?,category_summary
+My youtube spend for Dec 2026,category_summary
+Show top 3 categories last 6 months,top_categories
+Forecast my spending for Aug 2023,forecast_expense
+What was my utilities total in Apr 2024?,category_summary
+What were my top categories in Oct 2024?,top_categories
+Expected expenses for May 2023,forecast_expense
+What is my total spend for Nov 2024?,spending_summary
+How much was my health insurance in Apr 2026?,category_summary
+What were my top categories in Nov 2026?,top_categories
+How much did I spend on wifi in 2025-08?,category_summary
+How much did I spend on bar this month?,category_summary
+How much did I spend in Aug 2023?,spending_summary
+How much did I spend on bar in 2023-12?,category_summary
+Overall expenses for the past 6 months,spending_summary
+Total spending for 2026-02,spending_summary
+How much for hbomax last 12 months,category_summary
+My hbomax spend for Feb 2023,category_summary
+How much did I spend on youtube in 2025-07?,category_summary
+Show my dining spend in Jul,category_summary
+Forecast my spending for Sep 2024,forecast_expense
+Give me my spend for 2023-10,spending_summary
+My airline spend for Sep 2025,category_summary
+How much for groceries last 2 months,category_summary
+Top 5 categories for Apr 2025,top_categories
+How much did I spend on youtube this month?,category_summary
+How much did I spend in Sep 2024?,spending_summary
+How much for lyft last 4 months,category_summary
+How much did I spend on healthcare this month?,category_summary
+What was my gas total in Mar 2023?,category_summary
+My car insurance spend for Aug 2025,category_summary
+How much did I spend on hbomax this month?,category_summary
+How much did I spend in Jun 2026?,spending_summary
+Total spending for 2023-02,spending_summary
+Spending on uber last month,category_summary
+What did I spend on travel in 2023-02?,category_summary
+What was my entertainment total in Dec 2026?,category_summary
+Projected expenses for 2024-08,forecast_expense
+How much for pharmacy last 4 months,category_summary
+Any subscriptions in Aug 2025?,subscriptions
+What is my total spend for Jan 2026?,spending_summary
+Highest spend categories 2023-03,top_categories
+Top categories over the last 4 months,top_categories
+My restaurants spend for Feb 2023,category_summary
+Total internet in the last 1 months,category_summary
+What was my health insurance total in Oct 2024?,category_summary
+Projected expenses for 2023-02,forecast_expense
+My coffee spend for Jan 2025,category_summary
+What did I spend on apple music in 2025-02?,category_summary
+Show my gas spend in Jun,category_summary
+Give me saving suggestions for Dec 2025,recommendation
+Show my flight spend in Jan,category_summary
+How much was my vehicle insurance in Feb 2026?,category_summary
+Total hotel in the last 4 months,category_summary
+Top 3 categories for Oct 2024,top_categories
+Any subscriptions in Jul 2026?,subscriptions
+How much was my wifi in Apr 2024?,category_summary
+Forecast my spending for Feb 2026,forecast_expense
+Total spending for 2026-05,spending_summary
+What is my total spend for Dec 2026?,spending_summary
+Spending on mobile last month,category_summary
+Any subscriptions in Jul 2023?,subscriptions
+Total hulu in the last 2 months,category_summary
+What was my wifi total in Apr 2024?,category_summary
+Subscriptions in the last 6 months,subscriptions
+Give me saving suggestions for Oct 2026,recommendation
+How much was my prime video in Apr 2023?,category_summary
+Give me saving suggestions for Nov 2026,recommendation
+What were my top categories in Mar 2024?,top_categories
+Subscriptions in the last 12 months,subscriptions
+How much did I spend on lyft this month?,category_summary
+What were my top categories in Jul 2023?,top_categories
+Total lyft in the last 2 months,category_summary
+What was my water total in Aug 2023?,category_summary
+What is my total spend for May 2026?,spending_summary
+How much did I spend on rent in 2024-04?,category_summary
+Show my disney spend in Sep,category_summary
+What were my top categories in Aug 2024?,top_categories
+My travel spend for Apr 2023,category_summary
+Show my vehicle insurance spend in Jun,category_summary
+Expected expenses for Jan 2024,forecast_expense
+Total spending for 2026-09,spending_summary
+Give me my spend for 2024-06,spending_summary
+Give me my spend for 2026-08,spending_summary
+What did I spend on uber in 2026-04?,category_summary
+Which categories did I spend the most on in May?,top_categories
+Show my dining spend in Apr,category_summary
+How much for restaurants last 1 months,category_summary
+Total disney in the last 12 months,category_summary
+Give me saving suggestions for Feb 2026,recommendation
+Expected expenses for Jan 2025,forecast_expense
+How much was my spending in the last 2 months?,spending_summary
+How much did I spend on apple music this month?,category_summary
+How much did I spend on spotify in 2024-05?,category_summary
+Give me saving suggestions for Mar 2024,recommendation
+What were my top categories in Apr 2023?,top_categories
+Forecast my spending for Apr 2026,forecast_expense
+Spending on gas last month,category_summary
+How much was my spending in the last 12 months?,spending_summary
+What was my bar total in May 2024?,category_summary
+Forecast my spending for Dec 2023,forecast_expense
+What was my vehicle insurance total in Mar 2026?,category_summary
+What was my youtube total in Nov 2024?,category_summary
+Expected expenses for Nov 2023,forecast_expense
+How much was my internet in Mar 2025?,category_summary
+How much did I spend in Aug 2026?,spending_summary
+How much did I spend on hbomax in 2024-03?,category_summary
+Total gym in the last 2 months,category_summary
+What was my gas total in Mar 2026?,category_summary
+Which categories did I spend the most on in Feb?,top_categories
+Total apple music in the last 3 months,category_summary
+How much did I spend on groceries in 2024-02?,category_summary
+What did I spend on insurance in 2025-07?,category_summary
+What was my mobile total in Aug 2026?,category_summary
+What were my top categories in Jun 2023?,top_categories
+Total gym in the last 6 months,category_summary
+Spending on pharmacy last month,category_summary
+Any subscriptions in Jan 2025?,subscriptions
+How much did I spend in Jul 2023?,spending_summary
+What is my total spend for Apr 2026?,spending_summary
+How much was my netflix in Jan 2024?,category_summary
+How much for spotify last 4 months,category_summary
+Total lyft in the last 1 months,category_summary
+Total shopping in the last 12 months,category_summary
+Expected expenses for Sep 2026,forecast_expense
+Show my utilities spend in Dec,category_summary
+Subscriptions in the last 1 months,subscriptions
+Highest spend categories 2026-02,top_categories
+Expected expenses for Apr 2023,forecast_expense
+How much did I spend on apple music in 2026-07?,category_summary
+Give me my spend for 2026-10,spending_summary
+Total rent in the last 6 months,category_summary
+What did I spend on vehicle insurance in 2024-05?,category_summary
+Show my insurance spend in Jul,category_summary
+Give me saving suggestions for Sep 2023,recommendation
+How much did I spend in Nov 2026?,spending_summary
+How much did I spend on disney this month?,category_summary
+Forecast my spending for Apr 2024,forecast_expense
+Total apple music in the last 4 months,category_summary
+What was my internet total in Sep 2025?,category_summary
+Highest spend categories 2023-06,top_categories
+How much for hulu last 6 months,category_summary
+Show top 3 categories last 2 months,top_categories
+What did I spend on hulu in 2023-04?,category_summary
+What was my coffee total in Jan 2024?,category_summary
+Give me my spend for 2023-11,spending_summary
+Highest spend categories 2024-10,top_categories
+Highest spend categories 2025-04,top_categories
+Top spending categories in 3 months,top_categories
+Show my uber spend in Aug,category_summary
+Forecast my spending for Jul 2026,forecast_expense
+My apple music spend for Apr 2026,category_summary
+What was my electric total in May 2023?,category_summary
+Give me saving suggestions for Apr 2024,recommendation
+How much did I spend on amazon prime in 2023-12?,category_summary
+What is my total spend for Jul 2023?,spending_summary
+How much was my travel in Jul 2024?,category_summary
+Any subscriptions in Mar 2024?,subscriptions
+Give me saving suggestions for Mar 2026,recommendation
+Forecast my spending for Sep 2023,forecast_expense
+Show my health insurance spend in Jul,category_summary
+Show my insurance spend in Oct,category_summary
+Show my airline spend in Feb,category_summary
+How much was my mobile in Apr 2023?,category_summary
+My hulu spend for Dec 2025,category_summary
+How much did I spend on movies this month?,category_summary
+How much did I spend on vehicle insurance in 2023-10?,category_summary
+Overall expenses for the past 12 months,spending_summary
+Total spending for 2023-04,spending_summary
+How much for insurance last 1 months,category_summary
+Show my airline spend in Jan,category_summary
+Forecast my spending for Jan 2023,forecast_expense
+What did I spend on insurance in 2026-06?,category_summary
+How much did I spend in Dec 2025?,spending_summary
+Projected expenses for 2025-09,forecast_expense
+What were my top categories in Oct 2025?,top_categories
+What was my travel total in Jun 2023?,category_summary
+What was my fuel total in May 2025?,category_summary
+Give me saving suggestions for May 2025,recommendation
+Give me saving suggestions for Feb 2023,recommendation
+What was my pharmacy total in Sep 2024?,category_summary
+How much was my spending in the last 4 months?,spending_summary
+How much did I spend in Mar 2023?,spending_summary
+Any subscriptions in May 2026?,subscriptions
+Spending on health insurance last month,category_summary
+What is my total spend for Jan 2024?,spending_summary
+Any subscriptions in Apr 2024?,subscriptions
+How much for hotel last 2 months,category_summary
+My entertainment spend for Mar 2023,category_summary
+Give me saving suggestions for May 2026,recommendation
+Show my hbomax spend in Dec,category_summary
+Give me my spend for 2024-10,spending_summary
+Total spending for 2023-09,spending_summary
+What was my insurance total in May 2025?,category_summary
+Projected expenses for 2023-05,forecast_expense
+My gas spend for Mar 2026,category_summary
+What were my top categories in Aug 2023?,top_categories
+Show my disney spend in Apr,category_summary
+What were my top categories in Aug 2026?,top_categories
+How much for gym last 12 months,category_summary
+Total spending for 2023-11,spending_summary
+What did I spend on hotel in 2023-03?,category_summary
+What was my restaurants total in Oct 2024?,category_summary
+Show top 5 categories last 3 months,top_categories
+Show my hulu spend in Sep,category_summary
+What did I spend on netflix in 2026-10?,category_summary
+Spending on gym last month,category_summary
+Total entertainment in the last 6 months,category_summary
+Give me saving suggestions for Jan 2026,recommendation
+Projected expenses for 2023-04,forecast_expense
+Total pharmacy in the last 12 months,category_summary
+Any subscriptions in Nov 2025?,subscriptions
+How much for rent last 12 months,category_summary
+Total vehicle insurance in the last 6 months,category_summary
+Give me saving suggestions for May 2024,recommendation
+Spending on fuel last month,category_summary
+Forecast my spending for Dec 2026,forecast_expense
+Expected expenses for Oct 2023,forecast_expense
+Any subscriptions in Feb 2024?,subscriptions
+How much for vehicle insurance last 4 months,category_summary
+What did I spend on wifi in 2024-03?,category_summary
+Give me saving suggestions for Oct 2023,recommendation
+Top categories over the last 6 months,top_categories
+Highest spend categories 2024-12,top_categories
+Expected expenses for Mar 2026,forecast_expense
+Total hotel in the last 6 months,category_summary
+How much for lyft last 2 months,category_summary
+Total spending for 2026-07,spending_summary
+What was my uber total in Feb 2024?,category_summary
+Expected expenses for Oct 2025,forecast_expense
+My gas spend for Feb 2025,category_summary
+How much was my rent in Feb 2023?,category_summary
+How much did I spend on gas this month?,category_summary
+Any subscriptions in Mar 2023?,subscriptions
+Top 3 categories for Jun 2023,top_categories
+What was my car insurance total in Jun 2026?,category_summary
+What is my total spend for Oct 2026?,spending_summary
+What is my total spend for Sep 2025?,spending_summary
+How much did I spend on uber in 2026-05?,category_summary
+Highest spend categories 2026-06,top_categories
+How much did I spend on entertainment this month?,category_summary
+How much did I spend on gym this month?,category_summary
+How much was my insurance in Mar 2023?,category_summary
+Give me saving suggestions for Mar 2023,recommendation
+What did I spend on youtube in 2023-12?,category_summary
+Top 3 categories for Dec 2024,top_categories
+What did I spend on internet in 2025-04?,category_summary
+Expected expenses for Jan 2026,forecast_expense
+Total spending for 2026-11,spending_summary
+Total spending for 2024-04,spending_summary
+How much did I spend on water this month?,category_summary
+What were my top categories in Mar 2023?,top_categories
+How much did I spend in Dec 2024?,spending_summary
+Highest spend categories 2024-05,top_categories
+What did I spend on health insurance in 2026-12?,category_summary
+How much for movies last 2 months,category_summary
+How much was my restaurants in Aug 2025?,category_summary
+My gas spend for Jun 2023,category_summary
+Expected expenses for Mar 2024,forecast_expense
+Show top 5 categories last 1 months,top_categories
+How much was my uber in Jan 2023?,category_summary
+Expected expenses for Dec 2026,forecast_expense
+What were my top categories in Jun 2024?,top_categories
+How much did I spend in Feb 2023?,spending_summary
+How much did I spend in Aug 2024?,spending_summary
+Any subscriptions in Apr 2023?,subscriptions
+My entertainment spend for Jan 2023,category_summary
+Highest spend categories 2023-05,top_categories
+How much was my mobile in Mar 2026?,category_summary
+How much for restaurants last 4 months,category_summary
+What did I spend on wifi in 2024-06?,category_summary
+Total travel in the last 2 months,category_summary
+Give me my spend for 2023-03,spending_summary
+Top categories over the last 3 months,top_categories
+What was my youtube total in Dec 2024?,category_summary
+Highest spend categories 2025-02,top_categories
+How much was my amazon prime in Mar 2026?,category_summary
+Total spending for 2025-09,spending_summary
+What is my total spend for May 2024?,spending_summary
+Show my youtube spend in Nov,category_summary
+Give me saving suggestions for Feb 2024,recommendation
+What was my movies total in Feb 2025?,category_summary
+What was my disney total in Apr 2026?,category_summary
+What is my total spend for Jan 2025?,spending_summary
+Give me my spend for 2026-01,spending_summary
+What is my total spend for Sep 2023?,spending_summary
+Total spotify in the last 6 months,category_summary
+Show my insurance spend in Nov,category_summary
+Give me saving suggestions for Aug 2023,recommendation
+What is my total spend for Jul 2026?,spending_summary
+How much was my travel in May 2023?,category_summary
+Give me my spend for 2023-07,spending_summary
+Expected expenses for Jun 2025,forecast_expense
+Spending on coffee last month,category_summary
+What were my top categories in Jul 2025?,top_categories
+Show top 3 categories last 4 months,top_categories
+How much did I spend on internet this month?,category_summary
+Total spending for 2024-03,spending_summary
+Total pharmacy in the last 2 months,category_summary
+What did I spend on netflix in 2023-11?,category_summary
+Total flight in the last 12 months,category_summary
+What is my total spend for May 2025?,spending_summary
+Spending on netflix last month,category_summary
+My movies spend for Sep 2023,category_summary
+My gas spend for Jun 2026,category_summary
+Total spending for 2024-02,spending_summary
+Highest spend categories 2026-09,top_categories
+Total spending for 2023-08,spending_summary
+Projected expenses for 2024-07,forecast_expense
+What was my entertainment total in Aug 2026?,category_summary
+How much was my insurance in Nov 2025?,category_summary
+How much did I spend on wifi this month?,category_summary
+How much did I spend on restaurants in 2025-01?,category_summary
+Highest spend categories 2026-12,top_categories
+Spending on flight last month,category_summary
+What did I spend on water in 2024-12?,category_summary
+What did I spend on insurance in 2025-11?,category_summary
+How much did I spend on car insurance in 2026-10?,category_summary
+Forecast my spending for Oct 2025,forecast_expense
+Any subscriptions in Nov 2024?,subscriptions
+Show my fuel spend in May,category_summary
+What was my bar total in Jan 2024?,category_summary
+What was my movies total in Dec 2025?,category_summary
+How much for dining last 12 months,category_summary
+Top 5 categories for Sep 2025,top_categories
+How much did I spend on internet in 2024-10?,category_summary
+My mobile spend for Mar 2024,category_summary
+How much did I spend on healthcare in 2025-12?,category_summary
+Highest spend categories 2024-07,top_categories
+How much did I spend in Sep 2023?,spending_summary
+Give me my spend for 2026-12,spending_summary
+What is my total spend for Nov 2026?,spending_summary
+Give me my spend for 2024-11,spending_summary
+What did I spend on gas in 2023-07?,category_summary
+Forecast my spending for May 2023,forecast_expense
+Total hotel in the last 3 months,category_summary
+My gym spend for Mar 2025,category_summary
+What were my top categories in May 2024?,top_categories
+Total spending for 2023-06,spending_summary
+Top 3 categories for Mar 2026,top_categories
+Forecast my spending for Oct 2024,forecast_expense
+Any subscriptions in Sep 2026?,subscriptions
+What did I spend on internet in 2024-10?,category_summary
+Forecast my spending for Jan 2024,forecast_expense
+Give me saving suggestions for Aug 2024,recommendation
+How much was my car insurance in Apr 2024?,category_summary
+Give me saving suggestions for Jul 2023,recommendation
+Total spotify in the last 4 months,category_summary
+How much did I spend on youtube in 2025-12?,category_summary
+My airline spend for Aug 2025,category_summary
+Total spending for 2023-10,spending_summary
+Highest spend categories 2023-12,top_categories
+How much did I spend on amazon prime this month?,category_summary
+Forecast my spending for Jan 2025,forecast_expense
+What did I spend on prime video in 2024-09?,category_summary
+What were my top categories in Feb 2026?,top_categories
+How much was my airline in Dec 2026?,category_summary
+How much did I spend on lyft in 2025-12?,category_summary
+Any subscriptions in Aug 2024?,subscriptions
+Top 3 categories for Mar 2023,top_categories
+How much was my airline in Sep 2023?,category_summary
+Projected expenses for 2023-08,forecast_expense
+What is my total spend for Dec 2024?,spending_summary
+My gas spend for Dec 2024,category_summary
+What did I spend on utilities in 2023-07?,category_summary
+How much did I spend on rent in 2024-10?,category_summary
+What was my hotel total in Feb 2023?,category_summary
+How much for electric last 2 months,category_summary
+My amazon prime spend for Jul 2026,category_summary
+How much was my groceries in Mar 2024?,category_summary
+Projected expenses for 2023-09,forecast_expense
+How much for fuel last 12 months,category_summary
+Forecast my spending for Dec 2025,forecast_expense
+How much did I spend on flight in 2026-03?,category_summary
+My internet spend for Mar 2024,category_summary
+How much was my uber in Nov 2024?,category_summary
+Spending on bar last month,category_summary
+How much was my netflix in Oct 2026?,category_summary
+Show my shopping spend in Jul,category_summary
+How much did I spend on airline in 2026-06?,category_summary
+Total groceries in the last 3 months,category_summary
+What did I spend on dining in 2025-06?,category_summary
+Show my utilities spend in Feb,category_summary
+Show my restaurants spend in Oct,category_summary
+Forecast my spending for Sep 2026,forecast_expense
+How much did I spend in Oct 2023?,spending_summary
+Highest spend categories 2023-11,top_categories
+How much was my water in Sep 2025?,category_summary
+Spending on hbomax last month,category_summary
+What did I spend on insurance in 2025-10?,category_summary
+What did I spend on vehicle insurance in 2024-07?,category_summary
+What did I spend on uber in 2024-07?,category_summary
+What is my total spend for Aug 2023?,spending_summary
+Top 5 categories for Jan 2025,top_categories
+Show my wifi spend in Jan,category_summary
+Projected expenses for 2024-03,forecast_expense
+Expected expenses for Jul 2023,forecast_expense
+Total spending for 2024-08,spending_summary
+Total wifi in the last 3 months,category_summary
+What is my total spend for May 2023?,spending_summary
+Top 3 categories for Sep 2025,top_categories
+Top 5 categories for Jul 2025,top_categories
+My apple music spend for Jul 2023,category_summary
+What was my uber total in Jan 2026?,category_summary
+Top 5 categories for Jan 2024,top_categories
+Spending on shopping last month,category_summary
+Show my disney spend in Feb,category_summary
+How much did I spend on hotel in 2026-06?,category_summary
+Show my health insurance spend in Mar,category_summary
+Give me saving suggestions for Nov 2025,recommendation
+Any subscriptions in Jul 2024?,subscriptions
+How much did I spend on uber this month?,category_summary
+Expected expenses for Feb 2026,forecast_expense
+Highest spend categories 2024-09,top_categories
+Give me my spend for 2023-08,spending_summary
+Top 3 categories for Apr 2023,top_categories
+How much was my bar in Apr 2025?,category_summary
+What did I spend on healthcare in 2023-05?,category_summary
+How much did I spend in Jan 2024?,spending_summary
+My gas spend for Jun 2024,category_summary
+How much did I spend on amazon prime in 2025-07?,category_summary
+What was my insurance total in Sep 2026?,category_summary
+Total coffee in the last 3 months,category_summary
+Show my netflix spend in Jul,category_summary
+Forecast my spending for Mar 2023,forecast_expense
+What did I spend on gas in 2025-05?,category_summary
+Give me saving suggestions for Dec 2023,recommendation
+How much was my airline in Aug 2023?,category_summary
+Forecast my spending for Jan 2026,forecast_expense
+Give me my spend for 2023-05,spending_summary
+Spending on entertainment last month,category_summary
+What was my entertainment total in Nov 2025?,category_summary
+Projected expenses for 2025-02,forecast_expense
+What was my car insurance total in Apr 2025?,category_summary
+Forecast my spending for Jun 2023,forecast_expense
+Spending on electric last month,category_summary
+Spending on spotify last month,category_summary
+Projected expenses for 2023-11,forecast_expense
+Projected expenses for 2026-07,forecast_expense
+Give me my spend for 2024-07,spending_summary
+How much did I spend on hulu this month?,category_summary
+How much did I spend in May 2025?,spending_summary
+Total spending for 2023-05,spending_summary
+Total spending for 2025-04,spending_summary
+My coffee spend for Oct 2023,category_summary
+Give me my spend for 2025-02,spending_summary
+How much did I spend in Jan 2023?,spending_summary
+How much for shopping last 1 months,category_summary
+Projected expenses for 2026-10,forecast_expense
+How much did I spend in Sep 2025?,spending_summary
+Give me my spend for 2025-03,spending_summary
+What did I spend on restaurants in 2026-03?,category_summary
+What was my rent total in Feb 2024?,category_summary
+How much did I spend on disney in 2024-01?,category_summary
+How much did I spend in Oct 2026?,spending_summary
+Projected expenses for 2025-04,forecast_expense
+Highest spend categories 2026-08,top_categories
+Any subscriptions in Mar 2026?,subscriptions
+My groceries spend for Mar 2023,category_summary
+Any subscriptions in Apr 2025?,subscriptions
+How much did I spend in Jul 2025?,spending_summary
+Expected expenses for Feb 2024,forecast_expense
+What did I spend on wifi in 2024-09?,category_summary
+Highest spend categories 2026-01,top_categories
+Total spending for 2025-08,spending_summary
+Top 5 categories for Nov 2024,top_categories
+How much did I spend on car insurance this month?,category_summary
+What is my total spend for Dec 2023?,spending_summary
+Give me saving suggestions for Sep 2024,recommendation
+Expected expenses for Oct 2026,forecast_expense
+How much for lyft last 3 months,category_summary
+Highest spend categories 2025-10,top_categories
+How much for netflix last 4 months,category_summary
+What did I spend on spotify in 2025-08?,category_summary
+Give me saving suggestions for Apr 2025,recommendation
+How much for disney last 3 months,category_summary
+How much was my netflix in Jan 2025?,category_summary
+How much for movies last 3 months,category_summary
+Show my flight spend in Aug,category_summary
+What was my apple music total in Apr 2026?,category_summary
+What did I spend on lyft in 2023-02?,category_summary
+Forecast my spending for Sep 2025,forecast_expense
+Total disney in the last 2 months,category_summary
+Total gym in the last 3 months,category_summary
+How much did I spend on utilities this month?,category_summary
+Forecast my spending for Aug 2025,forecast_expense
+How much for youtube last 3 months,category_summary
+Total amazon prime in the last 1 months,category_summary
+How much for water last 6 months,category_summary
+Total dining in the last 2 months,category_summary
+How much was my car insurance in May 2023?,category_summary
+How much did I spend on bar in 2024-12?,category_summary
+Top 5 categories for Dec 2024,top_categories
+How much did I spend on health insurance in 2026-05?,category_summary
+Show top 3 categories last 12 months,top_categories
+What was my internet total in Apr 2025?,category_summary
+My mobile spend for Jan 2024,category_summary
+How much for gym last 4 months,category_summary
+How much was my bar in Sep 2023?,category_summary
+Any subscriptions in Dec 2023?,subscriptions
+How much did I spend on insurance this month?,category_summary
+What did I spend on vehicle insurance in 2026-12?,category_summary
+Total spending for 2024-10,spending_summary
+How much did I spend on spotify in 2026-03?,category_summary
+How much was my uber in Sep 2026?,category_summary
+Show my shopping spend in Mar,category_summary
+How much was my gym in Sep 2023?,category_summary
+Projected expenses for 2026-12,forecast_expense
+How much was my prime video in May 2023?,category_summary
+How much was my electric in Oct 2025?,category_summary
+What was my groceries total in May 2025?,category_summary
+Show my hbomax spend in May,category_summary
+Spending on disney last month,category_summary
+Top 3 categories for Feb 2026,top_categories
+What were my top categories in Nov 2025?,top_categories
+Projected expenses for 2025-11,forecast_expense
+Spending on car insurance last month,category_summary
+Forecast my spending for Feb 2024,forecast_expense
+Highest spend categories 2023-09,top_categories
+Expected expenses for Sep 2025,forecast_expense
+Total spending for 2025-11,spending_summary
+How much was my wifi in May 2024?,category_summary
+Give me my spend for 2024-12,spending_summary
+Projected expenses for 2026-02,forecast_expense
+What did I spend on hotel in 2023-08?,category_summary
+How much for electric last 1 months,category_summary
+How much did I spend on internet in 2024-03?,category_summary
+How much did I spend on travel this month?,category_summary
+What was my uber total in Aug 2024?,category_summary
+Total car insurance in the last 6 months,category_summary
+Total spending for 2024-11,spending_summary
+How much did I spend on water in 2026-11?,category_summary
+Total coffee in the last 2 months,category_summary
+How much did I spend on health insurance this month?,category_summary
+My entertainment spend for Jul 2023,category_summary
+Projected expenses for 2025-05,forecast_expense
+What was my hulu total in Apr 2026?,category_summary
+Give me my spend for 2026-09,spending_summary
+Spending on apple music last month,category_summary
+What did I spend on bar in 2026-12?,category_summary
+Spending on movies last month,category_summary
+Total spotify in the last 12 months,category_summary
+Give me saving suggestions for Apr 2026,recommendation
+Total spending for 2026-01,spending_summary
+What is my total spend for Oct 2025?,spending_summary
+Forecast my spending for Jun 2026,forecast_expense
+What was my hulu total in Mar 2024?,category_summary
+Give me my spend for 2024-04,spending_summary
+How much did I spend on restaurants in 2023-06?,category_summary
+Highest spend categories 2025-05,top_categories
+Top 3 categories for May 2026,top_categories
+Total coffee in the last 4 months,category_summary
+How much did I spend on shopping in 2026-06?,category_summary
+What was my pharmacy total in Oct 2025?,category_summary
+How much for health insurance last 12 months,category_summary
+How much was my prime video in Jan 2026?,category_summary
+How much did I spend in Jan 2026?,spending_summary
+Total restaurants in the last 2 months,category_summary
+How much was my mobile in Jun 2026?,category_summary
+Any subscriptions in Sep 2023?,subscriptions
+Any subscriptions in Jul 2025?,subscriptions
+How much did I spend on electric in 2023-08?,category_summary
+My rent spend for Dec 2024,category_summary
+How much did I spend on health insurance in 2024-08?,category_summary
+How much did I spend on coffee this month?,category_summary
+Total spending for 2025-03,spending_summary
+What did I spend on mobile in 2025-11?,category_summary
+Expected expenses for Aug 2023,forecast_expense
+Total healthcare in the last 6 months,category_summary
+Forecast my spending for Mar 2024,forecast_expense
+What was my gym total in Nov 2025?,category_summary
+What did I spend on bar in 2026-01?,category_summary
+Show my bar spend in Jul,category_summary
+How much for youtube last 12 months,category_summary
+How much was my health insurance in Apr 2024?,category_summary
+Give me my spend for 2023-06,spending_summary
+Give me my spend for 2023-01,spending_summary
+What was my water total in Jan 2025?,category_summary
+How much was my hotel in Jul 2023?,category_summary
+Show my hulu spend in Jul,category_summary
+Spending on hulu last month,category_summary
+My dining spend for Jun 2023,category_summary
+Total shopping in the last 3 months,category_summary
+What did I spend on prime video in 2024-03?,category_summary
+My water spend for Feb 2025,category_summary
+How much for groceries last 3 months,category_summary
+Top 5 categories for Mar 2024,top_categories
+How much was my fuel in Jan 2026?,category_summary
+What was my car insurance total in Dec 2024?,category_summary
+How much for rent last 2 months,category_summary
+What is my total spend for Aug 2026?,spending_summary
+What did I spend on uber in 2026-11?,category_summary
+Top 5 categories for Sep 2026,top_categories
+Spending on groceries last month,category_summary
+Give me my spend for 2025-06,spending_summary
+What was my netflix total in Jan 2025?,category_summary
+What was my lyft total in Feb 2023?,category_summary
+My wifi spend for Apr 2026,category_summary
+What did I spend on internet in 2023-07?,category_summary
+Total prime video in the last 3 months,category_summary
+Top 3 categories for Nov 2024,top_categories
+My disney spend for Sep 2024,category_summary
+What did I spend on flight in 2023-01?,category_summary
+How much was my rent in Sep 2025?,category_summary
+How much did I spend on shopping in 2026-04?,category_summary
+Spending on insurance last month,category_summary
+What did I spend on bar in 2026-07?,category_summary
+My entertainment spend for Sep 2025,category_summary
+How much did I spend on wifi in 2025-04?,category_summary
+How much for coffee last 6 months,category_summary
+Show my mobile spend in Oct,category_summary
+What was my restaurants total in Feb 2026?,category_summary
+How much for hulu last 2 months,category_summary
+How much was my gas in May 2025?,category_summary
+Highest spend categories 2025-11,top_categories
+Any subscriptions in Jan 2023?,subscriptions
+What did I spend on hotel in 2026-05?,category_summary
+Show my coffee spend in Mar,category_summary
+Show my entertainment spend in Aug,category_summary
+How much for shopping last 4 months,category_summary
+What was my netflix total in Nov 2023?,category_summary
+How much did I spend on pharmacy this month?,category_summary
+How much for gas last 12 months,category_summary
+How much was my coffee in May 2025?,category_summary
+My gym spend for Nov 2026,category_summary
+How much for hbomax last 2 months,category_summary
+Highest spend categories 2024-04,top_categories
+Total water in the last 4 months,category_summary
+How much was my mobile in Oct 2026?,category_summary
+Give me my spend for 2023-04,spending_summary
+Top 3 categories for May 2023,top_categories
+Give me my spend for 2025-05,spending_summary
+What is my total spend for Jun 2024?,spending_summary
+How much for hbomax last 3 months,category_summary
+What is my total spend for Jun 2025?,spending_summary
+What did I spend on gas in 2023-10?,category_summary
+How much was my youtube in Dec 2023?,category_summary
+Top 3 categories for Apr 2025,top_categories
+What were my top categories in Apr 2026?,top_categories
+Give me saving suggestions for Oct 2024,recommendation
+Highest spend categories 2026-11,top_categories
+My lyft spend for Sep 2023,category_summary
+How much was my water in Apr 2023?,category_summary
+What did I spend on water in 2026-08?,category_summary
+What was my movies total in May 2025?,category_summary
+How much did I spend in Dec 2023?,spending_summary
+Highest spend categories 2024-03,top_categories
+How much for apple music last 6 months,category_summary
+Projected expenses for 2024-06,forecast_expense
+What was my bar total in Feb 2024?,category_summary
+What were my top categories in May 2025?,top_categories
+How much did I spend on airline in 2025-11?,category_summary
+Highest spend categories 2025-06,top_categories
+Spending on lyft last month,category_summary
+What is my total spend for Jan 2023?,spending_summary
+How much did I spend on vehicle insurance in 2024-12?,category_summary
+Total spending for 2024-07,spending_summary
+What did I spend on flight in 2024-04?,category_summary
+What is my total spend for Nov 2023?,spending_summary
+Spending on wifi last month,category_summary
+What did I spend on bar in 2026-02?,category_summary
+What was my bar total in Nov 2024?,category_summary
+How much did I spend on health insurance in 2023-04?,category_summary
+What is my total spend for Oct 2023?,spending_summary
+How much did I spend in Aug 2025?,spending_summary
+How much for spotify last 3 months,category_summary
+My coffee spend for Jun 2024,category_summary
+What were my top categories in May 2023?,top_categories
+How much for flight last 12 months,category_summary
+Total youtube in the last 1 months,category_summary
+How much did I spend on fuel in 2026-08?,category_summary
+Give me saving suggestions for Jan 2025,recommendation
+How much for health insurance last 1 months,category_summary
+What were my top categories in Nov 2023?,top_categories
+Top 3 categories for Jul 2023,top_categories
+What were my top categories in Jul 2024?,top_categories
+How much did I spend on lyft in 2024-11?,category_summary
+Any subscriptions in Feb 2026?,subscriptions
+What did I spend on bar in 2024-10?,category_summary
+How much did I spend in Jul 2024?,spending_summary
+My hulu spend for Sep 2025,category_summary
+Total spending for 2025-07,spending_summary
+What did I spend on hulu in 2024-10?,category_summary
+How much for pharmacy last 6 months,category_summary
+How much did I spend on prime video in 2023-03?,category_summary
+Spending on airline last month,category_summary
+How much was my restaurants in Jun 2023?,category_summary
+Give me saving suggestions for Jul 2025,recommendation
+Top 3 categories for Aug 2026,top_categories
+Expected expenses for May 2024,forecast_expense
+How much for youtube last 4 months,category_summary
+Forecast my spending for Nov 2025,forecast_expense
+Give me my spend for 2025-09,spending_summary
+How much did I spend on car insurance in 2025-02?,category_summary
+How much for utilities last 1 months,category_summary
+Total amazon prime in the last 3 months,category_summary
+What did I spend on prime video in 2024-04?,category_summary
+How much was my airline in Aug 2026?,category_summary
+How much was my youtube in Oct 2024?,category_summary
+What did I spend on entertainment in 2023-06?,category_summary
+How much for apple music last 2 months,category_summary
+My hbomax spend for Oct 2026,category_summary
+What was my apple music total in Sep 2024?,category_summary
+How much did I spend on dining in 2024-11?,category_summary
+Total spending for 2023-03,spending_summary
+What was my hulu total in Jan 2023?,category_summary
+Total spending for 2024-05,spending_summary
+How much was my vehicle insurance in Sep 2023?,category_summary
+Expected expenses for Feb 2025,forecast_expense
+How much did I spend on prime video in 2023-01?,category_summary
+How much did I spend on internet in 2024-02?,category_summary
+Top 5 categories for Mar 2025,top_categories
+My healthcare spend for Jul 2026,category_summary
+My rent spend for Jan 2023,category_summary
+Give me my spend for 2025-08,spending_summary
+Total entertainment in the last 12 months,category_summary
+Show my healthcare spend in Feb,category_summary
+What did I spend on movies in 2024-06?,category_summary
+What was my entertainment total in Sep 2024?,category_summary
+Top 3 categories for Feb 2025,top_categories
+Forecast my spending for Aug 2026,forecast_expense
+Top 5 categories for Jul 2024,top_categories
+What did I spend on movies in 2024-01?,category_summary
+How much did I spend on gas in 2024-04?,category_summary
+Give me my spend for 2026-05,spending_summary
+Total internet in the last 3 months,category_summary
+What were my top categories in Dec 2023?,top_categories
+What was my hbomax total in Jun 2026?,category_summary
+Show my wifi spend in Sep,category_summary
+Projected expenses for 2024-09,forecast_expense
+How much was my movies in May 2026?,category_summary
+Show my healthcare spend in Jun,category_summary
+Highest spend categories 2024-06,top_categories
+What were my top categories in Sep 2023?,top_categories
+How much for pharmacy last 2 months,category_summary
+How much was my fuel in Jan 2023?,category_summary
+How much was my groceries in Jan 2023?,category_summary
+Show my gym spend in Jul,category_summary
+Any subscriptions in Dec 2026?,subscriptions
+Total gym in the last 4 months,category_summary
+How much did I spend on airline in 2024-08?,category_summary
+What did I spend on gym in 2025-06?,category_summary
+How much was my electric in Oct 2026?,category_summary
+Total lyft in the last 4 months,category_summary
+How much was my insurance in Aug 2024?,category_summary
+Give me my spend for 2024-09,spending_summary
+Give me my spend for 2024-05,spending_summary
+Any subscriptions in Jan 2026?,subscriptions
+Give me my spend for 2025-11,spending_summary
+Total vehicle insurance in the last 12 months,category_summary
+Total insurance in the last 12 months,category_summary
+Expected expenses for Jun 2023,forecast_expense
+How much was my airline in Nov 2025?,category_summary
+Expected expenses for Nov 2025,forecast_expense
+What did I spend on dining in 2026-01?,category_summary
+Any subscriptions in May 2024?,subscriptions
+Show my electric spend in Feb,category_summary
+Give me my spend for 2023-02,spending_summary
+How much for groceries last 4 months,category_summary
