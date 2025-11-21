@@ -1,0 +1,21 @@
+{
+  "trained_at": "2025-10-31T22:39:06.855410+00:00",
+  "rows": 1593,
+  "columns": [
+    "id",
+    "name",
+    "merchantName",
+    "amount",
+    "transactionDate",
+    "category_id",
+    "category_text",
+    "cat_name",
+    "is_income",
+    "date",
+    "isIncome",
+    "category",
+    "signed_amount",
+    "abs_amount"
+  ],
+  "csv_path": "/Users/arrju/Documents/CS595/txn-category-ml/data/expenses_data.csv"
+}
